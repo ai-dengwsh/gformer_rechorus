@@ -102,11 +102,11 @@ python main.py --latent_size 256 --num_heads 4 --n_layers 2 --d_ff 1024 --dropou
 如果您使用了本项目的代码或者发现本项目对您的研究工作有帮助，请按如下格式引用：
 
 ```bibtex
-@article{gformer2023,
+@article{gformer2024,
   title={GFormer: A Transformer-based Recommendation Model with Graph Enhancement},
-  author={[Authors]},
-  journal={[Journal]},
-  year={2023}
+  author={ai_dengwsh},
+  journal={none},
+  year={2024}
 }
 ```
 

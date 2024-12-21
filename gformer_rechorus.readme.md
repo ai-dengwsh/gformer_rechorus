@@ -175,11 +175,11 @@ python evaluate.py --model_path checkpoints/best_model.pth
 ## 📝 Citation
 If you use this code for your research, please cite our work:
 ```bibtex
-@article{gformer2023,
+@article{gformer2024,
   title={GFormer: A Transformer-based Recommendation System},
-  author={Your Name},
-  journal={arXiv preprint arXiv:2023.xxxxx},
-  year={2023}
+  author={ai_dengwsh},
+  journal={none},
+  year={2024}
 }
 ```
 
